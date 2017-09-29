@@ -1,0 +1,5 @@
+
+#type(area, scoup): subject
+# <blank line>
+#what happened
+#
